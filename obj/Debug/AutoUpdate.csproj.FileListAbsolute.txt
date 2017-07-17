@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\立信项目\Winform自动更新\AutoUpdate\obj\Debug\AutoUpdate.exe
+C:\Users\Administrator\Desktop\立信项目\Winform自动更新\AutoUpdate\obj\Debug\AutoUpdate.pdb
+C:\Users\Administrator\Desktop\立信项目\Winform自动更新\AutoUpdate\bin\Debug\AutoUpdate.exe
+C:\Users\Administrator\Desktop\立信项目\Winform自动更新\AutoUpdate\bin\Debug\AutoUpdate.pdb
+C:\Users\Administrator\Desktop\立信项目\Winform自动更新\AutoUpdate\obj\Debug\AutoUpdate.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\立信项目\Winform自动更新\AutoUpdate\obj\Debug\AutoUpdate.FrmUpdate.resources
+C:\Users\Administrator\Desktop\立信项目\Winform自动更新\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\立信项目\Winform自动更新\AutoUpdate\bin\Debug\AutoUpdate.exe.config
+E:\立信\BDOSecurityPortal_AutoUpdate\bin\Debug\AutoUpdate.exe.config
+E:\立信\BDOSecurityPortal_AutoUpdate\obj\Debug\AutoUpdate.exe
+E:\立信\BDOSecurityPortal_AutoUpdate\obj\Debug\AutoUpdate.pdb
+E:\立信\BDOSecurityPortal_AutoUpdate\bin\Debug\AutoUpdate.exe
+E:\立信\BDOSecurityPortal_AutoUpdate\bin\Debug\AutoUpdate.pdb
+E:\立信\BDOSecurityPortal_AutoUpdate\obj\Debug\AutoUpdate.csprojResolveAssemblyReference.cache
+E:\立信\BDOSecurityPortal_AutoUpdate\obj\Debug\AutoUpdate.FrmUpdate.resources
+E:\立信\BDOSecurityPortal_AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache

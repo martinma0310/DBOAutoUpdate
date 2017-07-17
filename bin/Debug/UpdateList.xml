@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="gb2312"?>
+<AutoUpdater>
+	<description>Application autoUpdate</description>
+	<Updater>
+		<Url>http://mtest.bdo.com.cn/BDOSecurityPortal/ClientUpdates/</Url>
+		<LastUpdateTime>2017-01-25</LastUpdateTime>
+	</Updater>
+	<Application applicationId="BDOSecurityPortal">
+		<EntryPoint>BDOSecurityPortal.exe</EntryPoint>
+		<Location>.</Location>
+		<Version>1.0.00.01</Version>
+	</Application>
+	<Files>
+    <File Ver="1.0.00.01" Name="zh-CN\BDOSecurityPortal.resources.dll" />
+    <File Ver="1.0.00.01" Name="en-US\BDOSecurityPortal.resources.dll" />
+    <File Ver="1.0.00.01" Name="SystemImage\1.1_login\help_blue.png" />
+    <File Ver="1.0.00.01" Name="SystemImage\1.1_login\mima_blue.png" />
+    <File Ver="1.0.00.01" Name="SystemImage\1.1_login\user_blue.png" />
+    <File Ver="1.0.00.01" Name="SystemImage\1.2_home\bdo_cloud_app.png" />
+    <File Ver="1.0.00.01" Name="SystemImage\1.2_home\footer\app_qr_code.png" />
+    <File Ver="1.0.00.01" Name="SystemImage\1.4_bind\bg_btn1.png" />
+    <File Ver="1.0.00.01" Name="SystemImage\1.4_bind\bg_btn2.png" />
+    <File Ver="1.0.00.01" Name="SystemImage\1.4_bind\bg_qr_code.png" />
+    <File Ver="1.0.00.01" Name="SystemImage\1.4_bind\box_2.png" />
+    <File Ver="1.0.00.01" Name="BDOSecurityPortal.application" />
+    <File Ver="1.0.00.01" Name="BDOSecurityPortal.exe" />
+    <File Ver="1.0.00.01" Name="BDOSecurityPortal.exe.config" />
+    <File Ver="1.0.00.01" Name="BDOSecurityPortal.exe.manifest" />
+    <File Ver="1.0.00.01" Name="BDOSecurityPortal.vshost.application" />
+    <File Ver="1.0.00.01" Name="BDOSecurityPortal.vshost.exe" />
+    <File Ver="1.0.00.01" Name="BDOSecurityPortal.vshost.exe.config" />
+    <File Ver="1.0.00.01" Name="BDOSecurityPortal.vshost.exe.manifest" />
+    <File Ver="1.0.00.01" Name="BDOSecurityPortalBLL.dll" />
+    <File Ver="1.0.00.01" Name="BDOSecurityPortalModel.dll" />
+    <File Ver="1.0.00.01" Name="BDOSecurityPortalUtil.dll" />
+    <File Ver="1.0.00.01" Name="run.bat" />
+    <File Ver="1.0.00.01" Name="UpdateList.xml" />
+	</Files>
+</AutoUpdater>
